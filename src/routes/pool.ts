@@ -190,7 +190,7 @@ export async function poolRoutes(fastify: FastifyInstance) {
         }
       }
     })
-return { pool }
+    return { pool }
 
   })
 }
